@@ -1,0 +1,13 @@
+Sheildusergaming Sheildusergaming
+#Learn To - Read
+#Learn To - Listen
+#Learn To - Read & Write Binary
+#Require = 1
+Apple = 'Eat'
+Talk(Apple)
+Set Apple 'Eaten'
+Talk(Apple)
+// yeay
+num = '0'
+Set num '1'
+Talk(num)
